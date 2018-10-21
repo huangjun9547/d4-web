@@ -1,0 +1,95 @@
+body {
+  font-family: Chalkboard SE;
+  background: url('images/kk.svg') bottom center no-repeat;
+  min-height: 98vh;
+  background-size:1005px 225px;
+}
+
+section {
+  min-height: 45vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+
+h1 {
+  font-size: 45px;
+  color: #0B6D00;
+  text-align: center;
+}
+
+
+
+ul {
+  text-align: center;
+  width: 250px;
+  list-style-type: none;
+  font-size: 20px;
+  margin:0;
+  padding:0;
+
+}
+
+
+
+
+li {
+  line-height: 33px;
+}
+
+
+
+a {
+  text-decoration: none
+}
+
+a:visited {
+  color: white;
+  text-decoration: none;
+}
+
+a:link {
+  color: white;
+  text-decoration: none;
+}
+
+.aaa {
+  background-color: #FF8B00;
+  border-radius: 40px;
+  width: 250px;
+  margin: 15px;
+  height: 36px;
+}
+
+#fleur {
+
+}
+
+#abeille{
+  width:70px;
+  height:70px;
+  position: absolute;
+  top: 20%;
+  left: 20%;
+
+}
+
+
+#abeille2{
+  width:70px;
+  height:70px;
+  position: absolute;
+  top: 35%;
+  right: 20%;
+
+}
+
+#abeille3{
+  width:70px;
+  height:70px;
+  position: absolute;
+  top: 55%;
+  left: 40%;
+
+}
